@@ -1,0 +1,33 @@
+td .fa-plus{
+    color: brown !important;
+    cursor: pointer !important;
+}
+.fa-check{
+    color: green !important;
+}
+.fa-trash{
+    color: red !important;
+    transition: 2s ease-out !important;
+}
+.fa-trash:hover {
+    transform: scale(1.4) !important;
+}
+th .fa-plus{
+    color: seagreen !important;
+    cursor: pointer !important;
+    transition: 2s ease-out !important;
+}
+.fa-plus:hover {
+    transform: scale(1.3) !important;
+}
+#container{
+    width: 500px;
+   
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+  }
